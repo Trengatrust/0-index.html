@@ -1,2 +1,24 @@
-# 0-index.html
+# alx-intermediate-frontend
 Practicing structuring a simple HTML document using sematic elements
+<html>
+<head>
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="#home">Home</a>
+            <a href="#about">About</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+    <main>
+        <article>
+            <h1>Title</h1>
+            <section>Content</section>
+        </article>
+    </main>
+    <footer>
+        @copyright
+    </footer>
+</body>
+</html>
